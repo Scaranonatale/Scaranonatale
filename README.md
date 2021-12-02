@@ -1,13 +1,15 @@
-### Hi there 👋, my name is Natalino
+## Hi there 👋, my name is Natalino
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scaranonatale)](https://github.com/Scaranonatale/github-readme-stats)
+###  :bust_in_silhouette: About me
+- 💻 I have a degree in Computer Science
+- 👨‍💻 I'm studing Data Science
+- 🌱 I’m currently learning everything
+
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scaranonatale&theme=tokyonight   )](https://github.com/Scaranonatale/github-readme-stats)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scaranonatale)](https://github.com/Scaranonatale/github-readme-stats)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scaranonatale&langs_count=8&theme=tokyonight   )](https://github.com/Scaranonatale/github-readme-stats)
 
 
 <!--
@@ -17,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 💻 I have a degree in Computer Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
